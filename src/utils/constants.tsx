@@ -14,7 +14,7 @@ import DeveloperModeIcon from "@mui/icons-material/DeveloperMode";
 
 export const logo = "https://i.ibb.co/s9Qys2j/logo.png";
 
-interface CategoryType {
+export interface CategoryType {
   name: string;
   icon: JSX.Element;
 }
